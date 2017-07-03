@@ -6,7 +6,7 @@
 | &nbsp;MacOS                 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | &nbsp;Linux                 |                  |                  |                  |                  |
 | &nbsp;QNAP                  |                  |                  |                  |                  |
-| &nbsp;Synology              |                  |                  |                  |                  |
+| &nbsp;Synology              |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:| WebDAV           |
 | __Preserves File attributes__ |                |                  |                  |                  |
 | &nbsp;Date Created          |:heavy_check_mark:|:heavy_check_mark:|                  |:x:               |
 | &nbsp;Date Modified         |:heavy_check_mark:|:heavy_check_mark:|                  |:x:               |
