@@ -15,3 +15,8 @@
 |                             |:heavy_check_mark:|:x:               |                  |                  |
 |                             |                  |                  |                  |                  |
 -->
+
+### Other
+
+ * [Box](https://www.box.com/en-gb/pricing)
+ * [LiveDrive](https://www2.livedrive.com/ForHome)
