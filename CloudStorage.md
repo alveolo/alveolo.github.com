@@ -20,3 +20,4 @@
 
  * [Box](https://www.box.com/en-gb/pricing)
  * [LiveDrive](https://www2.livedrive.com/ForHome)
+ * [Synology Cloud Sync](https://www.synology.com/en-global/knowledgebase/DSM/help/CloudSync/cloudsync)
